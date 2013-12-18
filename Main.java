@@ -8,15 +8,8 @@ public class Main {
 		System.out.print("Do you hear me?? ");
 		
 		System.out.print("Yeah, I hear you");
+		
+		System.out.print("The feature also hears you");
 		return 0;
 	}
-
-
-
-
-	
-	
-	
-
-	
 }
