@@ -11,7 +11,7 @@ public class Main {
 		
 		System.out.print("The feature also hears you");
 		
-		System.out.print("The release also hears you");
+		System.out.print("The release not hears you now (version 1)");
 		return 0;
 	}
 }
