@@ -8,6 +8,7 @@ public class Main {
 		System.out.print("you heard me?? ");
 
 		System.out.print("fixed on bug1.0");
+		
 		return 0;
 	}
 
