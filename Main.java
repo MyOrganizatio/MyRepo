@@ -19,6 +19,8 @@ public class Main {
 		
 		System.out.print("bug in support2");
 
+		System.out.print("fixed");
+
 		return 0;
 	}
 
