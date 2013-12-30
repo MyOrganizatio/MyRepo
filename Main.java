@@ -18,6 +18,14 @@ public class Main {
 		System.out.print("I can't hear you now");
 
 		System.out.print("fixed on bug1.0");
+		
+
+
+
+
+
+
+
 		return 0;
 	}
 
