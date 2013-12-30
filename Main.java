@@ -18,6 +18,6 @@ public class Main {
 		System.out.print("I can't hear you now");
 
 		return 0;
-	}
+}
 
 }
