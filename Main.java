@@ -16,6 +16,8 @@ public class Main {
 		System.out.print("you heard me?? ");
 
 		System.out.print("I can't hear you now");
+		
+		System.out.print("bug in support2");
 
 		return 0;
 	}
