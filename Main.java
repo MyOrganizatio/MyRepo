@@ -17,6 +17,8 @@ public class Main {
 
 		System.out.print("I can't hear you now");
 
+		System.out.print("bug2.0 in support2");
+
 		return 0;
 	}
 
